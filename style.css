@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    padding-block: 8px;
+    background-color: black;
+}
+.galeria {
+    display: column;
+    columns: 3;
+    color: white;
+}
+.galeria img {
+    width: 100%;
+    padding-block: 8px;
+}
+.galeria div {
+    position: relative;
+}
+.galeria p {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    font-size: 1.5rem;
+    background-color: black;
+}
