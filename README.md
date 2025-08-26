@@ -1,4 +1,4 @@
-# 03-GaleriaJS
+# 05-GaleriaJS
 
 Criação de Galeria com Java Script
 
