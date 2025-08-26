@@ -1,12 +1,10 @@
 # 05-GaleriaJS
 
-Criação de Galeria com Java Script
+Criação de Galeria com Java Script.
 
 ## Objetivo
 
-Criar uma galeria utilizando as tags "img" e "p" do html, com o auxilio do java script
-
-## Antes
+Criar uma galeria utilizando as tags "img" e "p" do html, com o auxilio do java script.
 
 ### Pré Visualização
 
